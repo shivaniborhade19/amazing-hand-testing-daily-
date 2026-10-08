@@ -1,0 +1,10 @@
+# Generated output - do not upload
+Reports/
+all_results.csv
+scheduler_output.txt
+__pycache__/
+*.pyc
+# Never upload SSH keys
+id_ed25519*
+id_rsa*
+*.pem
